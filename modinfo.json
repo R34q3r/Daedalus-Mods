@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "name": "Mini Map",
+      "author": "R3ap3r",
+      "version": "1.0",
+      "compatibility": "w60",
+      "description": "Adds a mini map to the right side of the screen.",
+      "fileType": "dll",
+      "fileURL": "https://github.com/R3ap3r0fS0uls/Daedalus-Mods/blob/main/MiniMap.zip",
+      "readmeURL": "https://github.com/R3ap3r0fS0uls/Daedalus-Mods/blob/main/README.md"
+    }
+  ]
+}
