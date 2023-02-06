@@ -1,2 +1,10 @@
+Features
+* Adds a mini map to the top right of the player's screen.
+* Allows for the viewing of waypoints from the mini map.
+* Saves zooming from the main map in the mini map.
 
-TEST
+Instructions
+* Installs using Daedalus Loader, which can be found in the tools tab, along with instruction on how to install mods.
+
+Things to be aware of
+* I'm not sure the stability of multiplayer, however I have seem a user get it to work, please report any bugs or crashes to by Discord thread.
